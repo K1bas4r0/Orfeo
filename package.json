@@ -1,6 +1,8 @@
 {
   "dependencies": {
+    "@discordjs/rest": "^2.2.0",
     "@discordjs/voice": "^0.16.0",
+    "discord-api-types": "^0.37.65",
     "discord.js": "^14.13.0",
     "dotenv": "^16.3.1",
     "libsodium-wrappers": "^0.7.13",
